@@ -14,8 +14,8 @@ no account, and no analytics or tracking of any kind in the app.
 
 ## What stays on your device
 
-Everything you make in Iconik — your widget designs, the text you type, the
-photos you choose, and your settings — is stored on your iPhone, in a container
+Everything you make in Iconik, your widget designs, the text you type, the
+photos you choose, and your settings, is stored on your iPhone, in a container
 shared between Iconik and its widget extension. It is not uploaded anywhere.
 Deleting the app removes it.
 
@@ -24,22 +24,22 @@ Deleting the app removes it.
 Iconik asks for these only when you use a feature that needs them. You can
 decline any of them and the rest of the app keeps working.
 
-**Location (While Using the App)** — used only to show local conditions in the
+**Location (While Using the App)**. Used only to show local conditions in the
 Weather widget. Your approximate coordinates are sent to **Apple's WeatherKit**
 service to retrieve a forecast. We request reduced (roughly city-level)
 accuracy rather than precise location. We never receive, see, or store your
 location ourselves. Apple's handling of that request is covered by Apple's
 privacy policy: https://www.apple.com/legal/privacy/
 
-**Calendar (Full Access)** — used only to read your upcoming events so the
+**Calendar (Full Access)**. Used only to read your upcoming events so the
 Calendar widget can display them. Events are read on your device and shown to
 you. Iconik never modifies your calendar, and never transmits event data
 anywhere.
 
-**Photos (Add Only)** — used only to save a wallpaper you've chosen into your
+**Photos (Add Only)**. Used only to save a wallpaper you've chosen into your
 photo library. This permission does not let Iconik read your existing photos.
 
-**Photo picking** — when you set a photo as a widget background, iOS shows you
+**Photo picking**. When you set a photo as a widget background, iOS shows you
 its own photo picker and hands Iconik only the single image you selected. Iconik
 does not get access to your wider library. The image you pick is copied into
 the app's own storage on your device so the widget can display it.

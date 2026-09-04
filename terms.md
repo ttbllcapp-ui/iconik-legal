@@ -29,7 +29,7 @@ We describe these limits inside the app under **Settings → How it works**.
 
 ## Your content
 
-Anything you make in Iconik — designs, text, photos you choose — is yours. It
+Anything you make in Iconik, designs, text, photos you choose, is yours. It
 stays on your device. We don't claim any rights over it, and we can't see it,
 because we don't operate servers that receive it. See the
 [Privacy Policy](privacy.html).
