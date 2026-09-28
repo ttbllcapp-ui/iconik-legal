@@ -1,6 +1,6 @@
 # Privacy Policy for Iconik
 
-**Last updated: 10 September 2026**
+**Last updated: 28 September 2026**
 
 Iconik is made by TTB INTERNATIONAL LLC. This policy explains what the app does
 with your information. The short version: Iconik has no accounts and no servers
@@ -16,8 +16,9 @@ no account, and no analytics or tracking of any kind in the app.
 
 Everything you make in Iconik, your widget designs, the text you type, the
 photos you choose, and your settings, is stored on your iPhone, in a container
-shared between Iconik and its widget extension. It is not uploaded anywhere.
-Deleting the app removes it.
+shared between Iconik and its widget extension. Unless you turn on iCloud
+design sync or couple sharing (both described below, both off by default), it
+is not uploaded anywhere, and deleting the app removes it.
 
 ## Permissions Iconik asks for, and why
 
@@ -27,9 +28,10 @@ decline any of them and the rest of the app keeps working.
 **Location (While Using the App)**. Used only to show local conditions in the
 Weather widget. Your approximate coordinates are sent to **Apple's WeatherKit**
 service to retrieve a forecast. We request reduced (roughly city-level)
-accuracy rather than precise location. We never receive, see, or store your
-location ourselves. Apple's handling of that request is covered by Apple's
-privacy policy: https://www.apple.com/legal/privacy/
+accuracy rather than precise location. The last position is kept only on your
+device so the widget can refresh the forecast; we never receive or see it.
+Apple's handling of that request is covered by Apple's privacy policy:
+https://www.apple.com/legal/privacy/
 
 **Calendar (Full Access)**. Used only to read your upcoming events so the
 Calendar widget can display them. Events are read on your device and shown to
@@ -58,9 +60,9 @@ its own photo picker and hands Iconik only the images you selected. Iconik
 does not get access to your wider library. The images you pick are copied into
 the app's own storage on your device so the widget can display them.
 
-**iCloud (couple sharing)**. Only if you use the sharing feature. The title,
-the date and any photo you add are stored in your own iCloud account and shared
-with the one person you invite, through Apple's CloudKit. Iconik has no server
+**iCloud (couple sharing)**. Only if you use the sharing feature. The title
+and the date are stored in your own iCloud account and shared with the one
+person you invite, through Apple's CloudKit. Iconik has no server
 of its own and cannot see this data. Apple's handling of it is covered by
 Apple's privacy policy.
 
